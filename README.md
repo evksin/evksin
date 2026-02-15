@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuriy
 
-<!--
-**evksin/evksin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunications Engineer | AI & Automation Developer  
 
-Here are some ideas to get you started:
+I build intelligent tools that turn data, documents and ideas into structured knowledge and actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I do
+- Build AI-powered applications  
+- Automate workflows  
+- Create tools for personal productivity & knowledge management  
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python, JavaScript  
+- **Web:** HTML, CSS  
+- **AI Tools:** Cursor, LLMs  
+- **Other:** Git, APIs, Automation  
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 DocMind  
+AI-powered document analysis  
+🔗 https://github.com/evksin/DocMind  
+
+### 🧬 LifeScript  
+Personal automation & scripting  
+🔗 https://github.com/evksin/LifeScript  
+
+### 🌙 DreamDecode  
+AI-powered dream interpretation  
+🔗 https://github.com/evksin/DreamDecode  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=evksin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evksin&layout=compact)
+
+---
+
+## 📫 Contact
+GitHub: https://github.com/evksin
+
