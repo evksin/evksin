@@ -1,48 +1,61 @@
 # 👋 Hi, I'm Yuriy
 
-Telecommunications Engineer | AI & Automation Developer  
+Telecommunications engineer turned AI-focused product builder.
 
-I build intelligent tools that turn data, documents and ideas into structured knowledge and actions.
-
----
-
-## 🧠 What I do
-- Build AI-powered applications  
-- Automate workflows  
-- Create tools for personal productivity & knowledge management  
+I build **AI-powered applications**, **startup-ready platforms** and **modern web & mobile products**.
 
 ---
 
-## 🧰 Tech Stack
-- **Languages:** Python, JavaScript  
-- **Web:** HTML, CSS  
-- **AI Tools:** Cursor, LLMs  
-- **Other:** Git, APIs, Automation  
+## 🚀 My flagship projects
 
----
-
-## 🚀 Featured Projects
-
-### 📄 DocMind  
-AI-powered document analysis  
-🔗 https://github.com/evksin/DocMind  
-
-### 🧬 LifeScript  
-Personal automation & scripting  
-🔗 https://github.com/evksin/LifeScript  
+### 🧠 DocMind  
+AI-powered document intelligence platform  
+→ Understand contracts, reports and documents using LLMs
 
 ### 🌙 DreamDecode  
-AI-powered dream interpretation  
-🔗 https://github.com/evksin/DreamDecode  
+AI-powered dream journal & psychology analyzer  
+→ Turn dreams into meaningful insights
+
+### 🧬 LifeScript  
+Personal life operating system  
+→ A private database of your thoughts, notes and future AI assistants
+
+### ⚡ GoNext  
+Modern Expo + TypeScript mobile starter  
+→ Build production-ready mobile apps faster
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=evksin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evksin&layout=compact)
+## 🛠 Tech stack
+
+- TypeScript / JavaScript  
+- Python  
+- Next.js  
+- React & React Native  
+- Expo  
+- Prisma  
+- PostgreSQL  
+- OpenAI / OpenRouter  
+- FastAPI  
 
 ---
 
-## 📫 Contact
-GitHub: https://github.com/evksin
+## 🧠 What I focus on
 
+- AI-powered products  
+- SaaS & startup engineering  
+- LLM integrations  
+- Productivity & self-improvement tools  
+- Clean architectures for real products  
+
+---
+
+## 📫 Let's connect
+
+If you are building something interesting in:
+- AI  
+- Startups  
+- Productivity  
+- Or need a strong technical co-founder  
+
+Feel free to reach out 🚀
