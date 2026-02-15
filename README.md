@@ -69,3 +69,16 @@ If you’re working on:
 - Or need a technical co-founder  
 
 Feel free to reach out 🚀
+
+---
+
+## 💼 Open to opportunities
+
+I'm open to:
+- AI Engineer roles  
+- Startup / SaaS engineering  
+- Remote-first teams  
+- Product-focused development  
+
+If you need someone who can **build and ship AI products**, let's talk.
+
