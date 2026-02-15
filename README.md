@@ -1,28 +1,28 @@
 # 👋 Hi, I'm Yuriy
 
-Telecommunications engineer turned AI-focused product builder.
+AI-focused product builder & telecommunications engineer.
 
-I build **AI-powered applications**, **startup-ready platforms** and **modern web & mobile products**.
+I build **AI-powered applications**, **SaaS platforms** and **startup-ready products** — from idea to production.
 
 ---
 
 ## 🚀 My flagship projects
 
 ### 🧠 DocMind  
-AI-powered document intelligence platform  
-→ Understand contracts, reports and documents using LLMs
+**AI-powered document intelligence platform**  
+Turn contracts, reports and business files into clear insights, risks and action points.
 
 ### 🌙 DreamDecode  
-AI-powered dream journal & psychology analyzer  
-→ Turn dreams into meaningful insights
+**AI-powered dream journal & psychology analyzer**  
+Understand your subconscious using LLMs and emotional analysis.
 
 ### 🧬 LifeScript  
-Personal life operating system  
-→ A private database of your thoughts, notes and future AI assistants
+**Personal life operating system**  
+A private database of your notes, thoughts and future AI assistants.
 
 ### ⚡ GoNext  
-Modern Expo + TypeScript mobile starter  
-→ Build production-ready mobile apps faster
+**Mobile startup framework**  
+Expo + TypeScript starter for building production-ready React Native apps.
 
 ---
 
@@ -40,22 +40,32 @@ Modern Expo + TypeScript mobile starter
 
 ---
 
-## 🧠 What I focus on
+## 🧠 What I build
 
-- AI-powered products  
-- SaaS & startup engineering  
+- AI-powered SaaS products  
 - LLM integrations  
-- Productivity & self-improvement tools  
-- Clean architectures for real products  
+- Productivity & self-reflection tools  
+- Startup MVPs  
+- Clean architectures for real-world systems  
 
 ---
 
-## 📫 Let's connect
+## 🌍 Why my work matters
 
-If you are building something interesting in:
-- AI  
-- Startups  
-- Productivity  
-- Or need a strong technical co-founder  
+I focus on building tools that:
+- Save people time  
+- Increase clarity  
+- Turn data into decisions  
+- And bring AI into real workflows  
+
+---
+
+## 📫 Let’s connect
+
+If you’re working on:
+- AI startups  
+- Productivity tools  
+- SaaS platforms  
+- Or need a technical co-founder  
 
 Feel free to reach out 🚀
